@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233547.exe
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233547.deps.json
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233547.runtimeconfig.json
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233547.dll
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233547.pdb
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233587.Form1.resources
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.dll
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\refint\assignment_02_233547.dll
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.pdb
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233547.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Visual\assignment_02_233587\obj\Debug\net8.0-windows\ref\assignment_02_233547.dll
